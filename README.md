@@ -1,9 +1,20 @@
- # MiniMarket
+ # Kelompok 3 MiniMarket - Django
 
-Nama : Vivie Zuliani Erikasari
+### Anggota : 
 
-NIM : 312210475
+Firli Maharani (312210581)
 
-Kelas : TI.22.A5
+Vivie Zuliani Erikasari (312210475)
 
-Dosen Pengampu : Dr. Ir. Ananto Tri Sasongko, M.Sc.
+Wafha Zahra Mulqiya (312210577)
+
+Zulaeha (312210575)
+
+### NIM : 
+312210475
+
+### Kelas : 
+TI.22.A5
+
+### Dosen Pengampu :
+Dr. Ir. Ananto Tri Sasongko, M.Sc.
