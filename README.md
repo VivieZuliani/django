@@ -10,11 +10,6 @@ Wafha Zahra Mulqiya (312210577)
 
 Zulaeha (312210575)
 
-### NIM : 
-312210475
+### Kelas : TI.22.A5
 
-### Kelas : 
-TI.22.A5
-
-### Dosen Pengampu :
-Dr. Ir. Ananto Tri Sasongko, M.Sc.
+### Dosen Pengampu : Dr. Ir. Ananto Tri Sasongko, M.Sc.
