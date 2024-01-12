@@ -13,3 +13,9 @@ Zulaeha (312210575)
 ### Kelas : TI.22.A5
 
 ### Dosen Pengampu : Dr. Ir. Ananto Tri Sasongko, M.Sc.
+
+## Hasil Run
+
+https://github.com/VivieZuliani/django/assets/130271255/d9b32963-1ca3-486d-ac01-1b67c3702d41
+
+
